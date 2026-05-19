@@ -1,4 +1,4 @@
-
+# 🎯 Face Recognition Attendance System
 ## ⚙️ Installation
 
 1. **Clone the repository**
